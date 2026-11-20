@@ -8,7 +8,7 @@
 
 <a href="https://trendradar.sandev.cc/zh/" title="TrendRadar 官方网站"><strong>🌐 官方网站</strong></a> · <a href="https://trendradar.sandev.cc/zh/docs/quick-start/" title="TrendRadar 官网文档"><strong>📖 官网文档</strong></a> · <a href="https://trendradar.sandev.cc/zh/docs/self-hosted-sources/" title="AI 自建热榜数据源"><strong>AI 自建热榜数据源</strong></a>
 
-<a href="https://trendshift.io/repositories/14726" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14726" alt="sansan0%2FTrendRadar | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/14726?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-14726" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/14726/monthly" alt="sansan0%2FTrendRadar | Trendshift" width="250" height="55"/></a>
 
 
 [![GitHub Stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat-square&logo=github&color=yellow)](https://github.com/sansan0/TrendRadar/stargazers)
@@ -190,28 +190,21 @@
 
 ## 🪄 赞助商
 
-> **[RapidProxy](https://www.rapidproxy.io/?ref=TrendRadar)** 提供全球住宅代理网络，面向多平台数据采集、AI 分析与自动化监控，支持智能轮换与粘性会话，灵活应对跨地区访问和持续数据获取需求。动态住宅 **\$0.55/GB 起**，静态住宅 **\$5/IP/月起**。
->
-> 使用专属优惠码 **`RAPID10`**，享 **9 折优惠**。[立即免费试用](https://www.rapidproxy.io/?ref=TrendRadar)。
-
-<a href="https://www.rapidproxy.io/?ref=TrendRadar"><img src="_image/banner-rapidproxy.webp" alt="RapidProxy 海外高质量代理IP服务，90M+ 真实住宅 IPs，流量永不过期，支持 HTTP(S)/SOCKS5 与智能IP轮换，免费测试" width="100%"></a>
-
-<br>
-
 > **[ApiSmart](https://www.apismart.ai/)** 提供统一的 AI 模型 API，支持智能路由、故障切换与按量计费。通过兼容接口接入多种模型，适用于热点分析、内容生成与自动化工作流，让 AI 应用集成更省心。
 
 <a href="https://www.apismart.ai/"><img src="_image/banner-apismart.webp" alt="ApiSmart 一站式 AI 模型 API，支持文本、图像与视频，智能路由、按量计费" width="100%"></a>
 
 <br>
 
-> **[Swiftproxy](https://www.swiftproxy.net/?ref=sansan0)** 专注于提供高质量动态与静态住宅代理，支持灵活的 IP 轮换与粘性会话。适用于热点追踪、网页抓取与自动化数据采集，为你的项目提供更稳定可靠的网络访问支持。
->
-> 使用优惠码 **`PROXY90`**，即可享受 **九折优惠**。
+> **[DeepSider API](https://www.deepsiderapi.com/?utm_source=trendradar)** 提供统一的 AI API 接入服务，一个 API Key 即可调用 GPT、Claude、Gemini、DeepSeek 等主流模型。非号池，非逆向，大厂官方渠道。支持按量计费与实时用量监控，方便为你的自动化工作流接入 AI。
 
-<!-- 赞助商横幅尺寸：1400 × 300 px（14:3），以 100% 宽度展示；参考 302.AI 的 992 × 250 px 与火山引擎的 1400 × 400 px，新版沿用 1400 px 宽度并缩短高度。 -->
-<a href="https://www.swiftproxy.net/?ref=sansan0"><img src="_image/banner-swiftproxy.webp" alt="Swiftproxy 全球住宅代理" width="100%"></a>
+<a href="https://www.deepsiderapi.com/?utm_source=trendradar"><img src="_image/banner-deepsider.webp" alt="DeepSider API：一个 API Key，连接全球主流 AI 模型；非号池，非逆向，大厂官方渠道" width="100%"></a>
 
-[有意赞助？点击查看赞助与合作详情](https://trendradar.sandev.cc/zh/sponsors/)
+<br>
+
+<p align="center">
+<a href="https://trendradar.sandev.cc/zh/sponsors/">有意赞助？点击查看赞助与合作详情</a>
+</p>
 
 <br>
 
@@ -228,7 +221,6 @@
 
 - **GitHub Issues**：适合具体的技术问题。提问时请提供完整信息（截图、错误日志等），有助于快速定位。
 - **公众号交流**：建议优先在相关文章下的留言区交流。若需后台提问，**先点赞/推荐**文章是最好的"敲门砖"，我在后台都能感受到这份心意哟 (´▽`ʃ♡ƪ)。
-- **QQ 群交流**：无论你是 AI 小白还是硬核开发者，想求助技术问题还是分享折腾心得，这里都欢迎你。群里主打互助交流和灵感碰撞，入群请先看群公告；提问时描述清楚问题、附上截图，群友有空就会帮忙，大家的实战经验往往比我一个人更快更全面 🤝
 
 > **友情提示**：
 > 本项目为开源分享，非商业产品。把作者当朋友而非客服，沟通效率会更高哦！
@@ -253,8 +245,12 @@
 <a href="https://ocr.sandev.cc/zh/"><img src="_image/sanframe-icon.webp" alt="SanFrame" width="72" height="72"></a>
 </td>
 <td align="left">
-<strong>多设备资料与剪贴板管理</strong><br>
-集中管理文字、图片、文件与剪贴板，支持 Windows / macOS 与 Android 传输端局域网互传。桌面端支持按需同步、离线 OCR、截图标注和 PDF 处理，无需账号，本地优先。
+<strong>剪贴板与资料管理工作台</strong><br>
+把文字、截图和文件引用收在本机，用标签、组合与搜索管理零散资料。支持滚动截图与标注、离线 OCR、PDF 批量识别，也可接入模型识别表格和公式。
+<br><br>
+通过内置 AI 助手或 MCP，让 AI 查找资料、保存讨论要点、分组打标签并置顶，访问范围与操作权限由你掌握。
+<br><br>
+支持 Windows / macOS 局域网互传与按规则同步，并可与 Android 传输端互传文字、图片和文件。软件免费，无需账号。
 <br><br>
 <a href="https://ocr.sandev.cc/zh/"><strong>了解 SanFrame →</strong></a>
 </td>

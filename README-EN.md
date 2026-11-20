@@ -8,7 +8,7 @@ Deploy in <strong>30 seconds</strong> — Say goodbye to endless scrolling, only
 
 <a href="https://trendradar.sandev.cc/en/" title="TrendRadar Official Website"><strong>🌐 Official Website</strong></a> · <a href="https://trendradar.sandev.cc/en/docs/quick-start/" title="TrendRadar Docs"><strong>📖 Documentation</strong></a> · <a href="https://trendradar.sandev.cc/en/docs/self-hosted-sources/" title="Self-hosted news sources with AI"><strong>AI Self-Hosted Sources</strong></a>
 
-<a href="https://trendshift.io/repositories/14726" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14726" alt="sansan0%2FTrendRadar | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/14726?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-14726" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/14726/monthly" alt="sansan0%2FTrendRadar | Trendshift" width="250" height="55"/></a>
 
 [![GitHub Stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat-square&logo=github&color=yellow)](https://github.com/sansan0/TrendRadar/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/sansan0/TrendRadar?style=flat-square&logo=github&color=blue)](https://github.com/sansan0/TrendRadar/network/members)
@@ -142,28 +142,21 @@ After communication, the author indicated no concerns about server pressure, but
 
 ## 🪄 Sponsors
 
-> **[RapidProxy](https://www.rapidproxy.io/?ref=TrendRadar)** provides a global residential proxy network for multi-platform data collection, AI analysis, and automated monitoring. Smart rotation and sticky sessions support access across regions and continuous data gathering. Rotating residential proxies start at **\$0.55/GB**, and static residential proxies start at **\$5/IP/month**.
->
-> Use code **`RAPID10`** for **10% off**. [Start a free trial](https://www.rapidproxy.io/?ref=TrendRadar).
-
-<a href="https://www.rapidproxy.io/?ref=TrendRadar"><img src="_image/banner-rapidproxy.webp" alt="RapidProxy high-quality overseas proxy IP services with 90M+ real residential IPs, non-expiring traffic, HTTP(S)/SOCKS5, smart IP rotation, and free testing" width="100%"></a>
-
-<br>
-
 > **[ApiSmart](https://www.apismart.ai/)** provides a unified AI model API with intelligent routing, automatic failover, and pay-as-you-go billing. Access multiple models through compatible interfaces for trend analysis, content generation, and automated workflows, simplifying AI integration.
 
 <a href="https://www.apismart.ai/"><img src="_image/banner-apismart.webp" alt="ApiSmart unified AI model API for text, images, and video, with intelligent routing and pay-as-you-go billing" width="100%"></a>
 
 <br>
 
-> **[Swiftproxy](https://www.swiftproxy.net/?ref=sansan0)** provides high-quality rotating and static residential proxies with flexible IP rotation and sticky sessions, offering reliable network access for projects involving trend tracking, web scraping, and automated data collection.
->
-> Use code **`PROXY90`** to get **10% off**.
+> **[DeepSider API](https://www.deepsiderapi.com/?utm_source=trendradar)** provides unified access to leading AI models, including GPT, Claude, Gemini, and DeepSeek, through a single API key. It uses official channels from major providers, with no account pools or reverse-engineered APIs. Pay-as-you-go billing and real-time usage monitoring make it easy to add AI to your automated workflows.
 
-<!-- Sponsor banner: 1400 × 300 px (14:3), displayed at 100% width; references: 302.AI at 992 × 250 px and Volcengine at 1400 × 400 px. The new banner retains the 1400 px width with a reduced height. -->
-<a href="https://www.swiftproxy.net/?ref=sansan0"><img src="_image/banner-swiftproxy.webp" alt="Swiftproxy global residential proxies" width="100%"></a>
+<a href="https://www.deepsiderapi.com/?utm_source=trendradar"><img src="_image/banner-deepsider.webp" alt="DeepSider API: one API key connects leading AI models worldwide; official channels from major providers, with no account pools or reverse-engineered APIs" width="100%"></a>
 
-[Interested in sponsoring? View sponsorship and partnership details](https://trendradar.sandev.cc/en/sponsors/)
+<br>
+
+<p align="center">
+<a href="https://trendradar.sandev.cc/en/sponsors/">Interested in sponsoring? View sponsorship and partnership details</a>
+</p>
 
 <br>
 
@@ -180,7 +173,6 @@ This contributes to the sustainable maintenance of the project and the growth of
 
 * **GitHub Issues**: Best for specific technical issues. Please provide complete information (screenshots, error logs, etc.) to help locate the problem quickly.
 * **WeChat Official Account**: It is recommended to leave comments under relevant articles. If you need to ask questions in the background, **liking/recommending** the article first is the best "icebreaker," and I can feel your appreciation (´▽`ʃ♡ƪ).
-* **QQ Group**: Whether you're an AI beginner or a seasoned developer, looking for help or sharing ideas, you're welcome here. The group is all about mutual help and brainstorming — please read the group announcement first; describe your issue clearly with screenshots, and fellow members will help when available. Community wisdom is often faster and more comprehensive than any single person 🤝
 
 > **Friendly Reminder**:
 > This project is for open-source sharing, not a commercial product. Treat the author as a friend, not customer service, for better communication efficiency!
@@ -205,8 +197,12 @@ This contributes to the sustainable maintenance of the project and the growth of
 <a href="https://ocr.sandev.cc/en/"><img src="_image/sanframe-icon.webp" alt="SanFrame" width="72" height="72"></a>
 </td>
 <td align="left">
-<strong>Multi-device content and clipboard management</strong><br>
-Organize text, images, files, and clipboard content, and transfer them over your local network between Windows, macOS, and the Android companion app. The desktop app offers on-demand sync, offline OCR, screenshot annotation, and PDF tools; no account required, local-first.
+<strong>A workspace for your clipboard and collected content</strong><br>
+Keep text, screenshots, and file references on your computer, organized with tags, groups, and search. Capture and annotate scrolling screenshots, extract text with offline OCR, and process PDFs in batches, or connect models to recognize tables and formulas.
+<br><br>
+Use the built-in assistant or connect an AI app through MCP to find material, save discussion notes, and group, tag, and pin records. You control what AI can access and change.
+<br><br>
+Transfer and sync content between Windows and macOS computers on your local network, with rules you choose. Exchange text, images, and files with the Android companion app. Free to use, with no account required.
 <br><br>
 <a href="https://ocr.sandev.cc/en/"><strong>Explore SanFrame →</strong></a>
 </td>
